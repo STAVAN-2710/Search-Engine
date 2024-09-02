@@ -31,8 +31,11 @@ Use Case: General-purpose searches to complement academic or encyclopedic data r
 
 ## Installation
 To use this project, you need to have Python installed. Clone this repository and install the required dependencies:
+
 git clone https://github.com/STAVAN-2710/Search-Engine
+
 cd https://github.com/STAVAN-2710/Search-Engine
+  
 pip install -r requirements.txt
 
 ##Usage
