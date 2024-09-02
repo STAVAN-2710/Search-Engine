@@ -38,6 +38,6 @@ cd https://github.com/STAVAN-2710/Search-Engine
   
 pip install -r requirements.txt
 
-##Usage
+## Usage
 You can utilize the tools provided in this repository by following the example usage above. Customize the queries and configurations to suit your specific needs.
 
