@@ -30,5 +30,6 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-pydantic==1.10.13
+# pydantic==1.10.13
 streamlit
+pydantic>=2.0.0
